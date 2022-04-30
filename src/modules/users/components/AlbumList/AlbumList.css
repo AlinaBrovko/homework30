@@ -1,0 +1,28 @@
+.album-list {
+  margin: 0;
+  width: 100%;
+}
+
+.album-list td {
+  width: 25%;
+  text-align: center;
+}
+
+.album-list a {
+  text-decoration: none;
+  color: rgb(20, 20, 20);
+}
+
+.album-title {
+  height: 40px;
+}
+
+.album-folder {
+  height: 180px;
+  max-width: 180px;
+  margin: 0 auto;
+  background-image: url("../../../../../public/images/folder.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}

@@ -1,0 +1,36 @@
+.users {
+  width: 100%;
+  border-spacing: 0 10px;
+}
+
+.users tr {
+  line-height: 20px;
+}
+
+.users td {
+  vertical-align: middle;
+}
+
+.users td.action {
+  text-align: center;
+  width: 100px;
+}
+.users td.action div {
+  height: 30px;
+  line-height: 30px;
+  width: 80px;
+  margin: 0 20px;
+  background-color: #04aa6d;
+  color: white;
+  border-radius: 3px;
+}
+
+.users td.action a {
+  text-decoration: none;
+}
+
+.users tr span {
+  display: block;
+  text-shadow: none;
+  color: rgb(120, 120, 120);
+}
